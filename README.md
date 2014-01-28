@@ -48,3 +48,9 @@ Once watching the lecture, complete the following labs, in order, with the goal 
 8. [Timed Greeting](https://github.com/flatiron-school-training/timed-greeting-xo-group)
 9. [FizzBuzz via RSpec](https://github.com/flatiron-school-training/rspec-fizzbuzz-xo-group)
 
+# Homework
+
+1. Watch the pre-recorded video of the next lecture.
+2. Finish the labs above if you didn't in lab.
+3. [Parrot Ruby](https://github.com/flatiron-school-training/parrot-ruby-xo-group)
+4. [Speaking Grandma](https://github.com/flatiron-school-training/speaking-grandma-xo-group)
