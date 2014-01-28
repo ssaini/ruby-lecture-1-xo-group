@@ -15,7 +15,7 @@ puts "First come, first served."
 puts "Programs are composed of basically two things:"
 
 puts "A language's keywords, like 'if' or 'end' (42 in total)"
-puts "and then variables and data like this very sentence (or String)."
+puts "and then barewords and data like this very sentence (or String)."
 puts "Anything that isn't one of those will cause an error."
 
 see
