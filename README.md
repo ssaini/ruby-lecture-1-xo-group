@@ -38,7 +38,7 @@ Additionally, there will be a live walk-through of the [basics of RSpec](https:/
 Once watching the lecture, complete the following labs, in order, with the goal of ultimately completing the RSpec FizzBuzz lab.
 
 1. [Basics of RSpec](https://github.com/flatiron-school-training/rspec-basics-xo-group)
-1.5 At this point I would read the [tutorial](https://github.com/flatiron-school-training/rspec-fizzbuzz-xo-group/blob/master/README.md) within the larger RSpec FizzBuzz lab but not try to solve it all. It has a lot of good RSpec context and introduction.
+15. At this point I would read the [tutorial](https://github.com/flatiron-school-training/rspec-fizzbuzz-xo-group/blob/master/README.md) within the larger RSpec FizzBuzz lab but not try to solve it all. It has a lot of good RSpec context and introduction.
 2. [Variable Assignment](https://github.com/flatiron-school-training/ruby-variable-assignment-xo-group)
 3. [RSpec Hello World](https://github.com/flatiron-school-training/ruby-hello-world-xo-group)
 4. [Say Hello](https://github.com/flatiron-school-training/say-hello-xo-group)
