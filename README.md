@@ -46,7 +46,5 @@ Once watching the lecture, complete the following labs, in order, with the goal 
 6. [Dice Roll](https://github.com/flatiron-school-training/dice-roll-xo-group)
 7. [Meal Choice](https://github.com/flatiron-school-training/meal-choice-xo-group)
 8. [Timed Greeting](https://github.com/flatiron-school-training/timed-greeting-xo-group)
-9. [Parrot](https://github.com/flatiron-school-training/ruby-parrot-xo-group)
-10. [Speak to Grandma](https://github.com/flatiron-school-training/speak-to-grandma-xo-group)
-11. [FizzBuzz via RSpec](https://github.com/flatiron-school-training/rspec-fizzbuzz-xo-group)
+9. [FizzBuzz via RSpec](https://github.com/flatiron-school-training/rspec-fizzbuzz-xo-group)
 
